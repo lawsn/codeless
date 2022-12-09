@@ -1,10 +1,10 @@
 package kr.doo.codeless.solid.open_closed;
 
 import static org.junit.Assert.assertEquals;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+//@SpringBootTest
 public class AnimalTest {
 
     @Test
